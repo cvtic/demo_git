@@ -1,10 +1,11 @@
 body {
-  font-family:Times,Arial,Sans;
-  font-size: 13px;
+  font-family:Vernada,Arial,Sans;
+  font-size: 12px;
 }
 
 h1 {
-  text-align: center;  
+  text-align: left;
+  color: #00C000;
 }
 
 h2 {
