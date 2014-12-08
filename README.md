@@ -1,3 +1,3 @@
 demo_git
 ========
-Ceci est un dépôt de démonstration
+Ceci est un dépôt de démonstration pour cvtic
